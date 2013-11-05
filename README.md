@@ -6,3 +6,8 @@ chat with they, can too detect if whatssap are istalled or can be launch the mar
 
 This library was developed by me: Jheto Xekri
 
+For use this only need add two permission to the AndroidManifest.xml
+
+<uses-permission android:name="android.permission.WRITE_CONTACTS" />
+<uses-permission android:name="android.permission.READ_CONTACTS" />
+
