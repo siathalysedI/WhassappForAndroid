@@ -1,9 +1,6 @@
 WhassappForAndroid
 ==================
 
-market to download.
-
-
 Docuemntation:
 
 openChatWithPhone: This method open a chat with a added contact.
