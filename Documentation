@@ -1,3 +1,8 @@
+For use this only need add two permission to the AndroidManifest.xml
+
+<uses-permission android:name="android.permission.WRITE_CONTACTS" />
+<uses-permission android:name="android.permission.READ_CONTACTS" />
+
 openChatWithPhone: This method open a chat with a added contact.
 
 Example: openChatWithPhone(Activity.this, phoneNumber);
